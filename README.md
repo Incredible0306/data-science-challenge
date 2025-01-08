@@ -1,17 +1,17 @@
-# Sales Analytics Challenge
+# Alysio Data Science Challenge
 
 A data science challenge focused on deriving actionable insights from B2B sales activity data.
 
 ## Repository Structure
 ```
-sales-analytics-challenge/
+alysio-data-science-challenge/
 ├── README.md
 ├── data/
-│   └── sample_data.csv
+│   └── monthly_report_2025-01-08_14-56-48.csv
 ├── src/
 │   └── analyze.py
 ├── requirements.txt
-└── challenge.md
+└── instructions.md
 ```
 
 ## Setup Instructions
@@ -38,7 +38,6 @@ pip install -r requirements.txt
 2. Complete the challenge
 3. Push your solution to your fork
 4. Create a pull request
-5. Include presentation slides in your PR
 
 ## Evaluation Criteria
 
@@ -46,4 +45,4 @@ See challenge.md for detailed evaluation criteria.
 
 ## Sample Data
 
-The repository includes sample sales activity data. Your solution should work with similar data structures.
+The repository includes sample sales activity data.
