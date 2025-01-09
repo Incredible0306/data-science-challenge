@@ -21,7 +21,6 @@ Build a comprehensive sales analytics system using provided historical sales act
 
 4. Prescriptive Analytics
 - Recommend optimal daily activity targets
-- Design territory allocation strategy
 - Develop coaching priorities based on ROI
 
 ## Data Description
@@ -47,27 +46,15 @@ Build a comprehensive sales analytics system using provided historical sales act
 - ROI analysis of recommendations
 - Implementation priorities
 
-4. Technical Documentation
-- Data preprocessing steps
-- Model architecture decisions
-- Validation methodology
-- Limitations and assumptions
-
-## Evaluation Criteria
-1. Technical Skills (40%)
-- Statistical rigor
-- Model performance
-- Code quality
-- Technical innovation
-
-2. Business Impact (30%)
+3. Business Impact (30%)
 - Actionable insights
 - ROI quantification
 - Strategic thinking
 - Implementation feasibility
 
-3. Communication (30%)
+4. Communication (30%)
 - Clear documentation
 - Visualization quality
 - Presentation skills
-- Business acumen
+
+## These are just suggestions. We are not expecting you to do all of them. But we would like to see your best work.
