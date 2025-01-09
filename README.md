@@ -2,16 +2,21 @@
 
 A data science challenge focused on deriving actionable insights from B2B sales activity data.
 
+## Challenge 1
+
+See challenge_1.md for the first challenge.
+
 ## Repository Structure
 ```
 alysio-data-science-challenge/
-├── README.md
 ├── data/
-│   └── monthly_report_2025-01-08_14-56-48.csv
+│   └── monthly_report_expanded.csv
 ├── src/
 │   └── analyze.py
+├── .gitignore
+├── challenge_1.md
+├── README.md
 ├── requirements.txt
-└── instructions.md
 ```
 
 ## Setup Instructions
@@ -30,7 +35,7 @@ source venv/bin/activate  # On Windows: venv\Scripts\activate
 pip install -r requirements.txt
 ```
 
-4. Start working on the challenge following challenge.md
+4. Start working on the challenge following challenge_1.md
 
 ## Submission Guidelines
 
@@ -40,8 +45,24 @@ pip install -r requirements.txt
 4. Create a pull request
 
 ## Evaluation Criteria
+We are a small but ambitious company looking to make a significant impact in the Sales Performance space. This challenge represents a critical opportunity for us to find exceptional talent who can help drive our vision forward.
 
-See challenge.md for detailed evaluation criteria.
+We evaluate submissions based on:
+- Technical excellence and innovation
+- Business acumen and strategic thinking 
+- Ability to derive actionable insights
+- Clear communication of complex findings
+- Creative problem-solving approach
+
+We encourage you to:
+- Think outside the box
+- Propose novel solutions and ideas
+- Consider real business implications
+- Share your unique perspective
+- Challenge assumptions
+
+This role is pivotal for our growth, and we're excited to see your best work. Don't hesitate to include additional suggestions or ideas that could help advance our mission of optimizing Sales Performance through data science.
+
 
 ## Sample Data
 
